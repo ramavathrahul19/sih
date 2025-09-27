@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # smart_tourist_monitaring
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# sih
+smart tourist app with ai,  block-chain and geofencing for sih 2025
+>>>>>>> 44b6d7ae42b2a300e1132f3edbe58f931780718d
